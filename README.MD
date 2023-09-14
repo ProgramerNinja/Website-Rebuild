@@ -11,7 +11,7 @@
 
 ## Installation
 
-- Navigate to the webpage: 
+- Navigate to the webpage: https://programerninja.github.io/Week1-Challenge/
 
 
 
