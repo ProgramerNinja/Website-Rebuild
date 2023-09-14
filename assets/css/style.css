@@ -57,7 +57,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
 
@@ -97,21 +97,29 @@ footer h2 {
     background-color: #2589bd;
 }
 
+/*consolidated the side item styling*/
+
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost h3 {
+/*consolidated the side item's h3 styling*/
+
+.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost img {
+/*consolidated the side item's img styling*/
+
+.benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*consolidated the main articles styling*/
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
@@ -122,11 +130,15 @@ footer h2 {
     color: #ffffff;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing, img {
+/*consolidated the main articles' img styling styling*/
+
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing, h2 {
+/*consolidated the main articles' h2 styling styling*/
+
+.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
